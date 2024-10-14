@@ -6,7 +6,7 @@
 // Description: CSE224 Term Project
 // Verilog Test Fixture created by ISE for module: TinyMIPS
 //////////////////////////////////////////////////////////////////////////////////
-// testtstsltst
+// birmilyar
 module tb_TinyMIPS_test1;
 	parameter SIZE = 8, DEPTH = 2**SIZE;
 	reg clk, rst;
