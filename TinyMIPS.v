@@ -7,7 +7,9 @@
 //////////////////////////////////////////////////////////////////////////////////
 
 module TinyMIPS(clk, rst, data_fromRAM, wrEn, addr_toRAM, data_toRAM);
-	input clk, rst;
+    // test
+    // test3
+    input clk, rst;
 	output reg wrEn;
 	input [15:0] data_fromRAM;
 	output reg [15:0] data_toRAM;
